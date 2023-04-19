@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Im Bernard
 
 # 💫 About Me:
 ✔ Im currently working on my own projects ✍<br>✔ Im looking to collaborate with others developers 👋<br>✔ Im currently learning backend development 💻<br>✔ Ask me about web design - usability 💬<br>✔ Im looking for team working ⭐
